@@ -1,1 +1,1 @@
-ffmpeg -f image2 -i output/frame_%01d.jpg -vcodec h264 -y analyzed-frames.mp4
+ffmpeg -f image2 -i output/frame_%01d.jpg -vcodec h264 -filter:v "setpts=PTS/2" -y analyzed-frames.mp4
