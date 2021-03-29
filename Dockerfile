@@ -54,5 +54,4 @@ RUN pip3 install https://github.com/google-coral/pycoral/releases/download/relea
 # install umt
 RUN apt-get install -y git
 RUN apt-get install -y ffmpeg
-RUN apt-get install -y screen
 RUN pip3 install git+https://github.com/hainesdata/rpi-urban-mobility-tracker --no-deps
