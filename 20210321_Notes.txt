@@ -1,0 +1,5 @@
+Times: 11:30am, 11:15pm
+
+Founders system had malfunction since it slipped from my hands when installing and snapped the SD card. Started collecting data at 1:30PM, however after reinstalling all packages, a new bug was introduced that immediately killed the process without my knowing. This had to do with trying to run 'umt -camera' after using the '-save' flag. Therefore, there is no data for the founders lot on this day. 
+
+Additionally, it should be noted that there was a soccer event around noon that required patrol to monitor the entrance of P4 to prevent any non-permit vehicles from entering. The patrol was in view, so it is possible the detections are affected by this.
