@@ -1,0 +1,3 @@
+Time bounds: 8:30AM, 11:30PM
+
+Rainy weather in morning and at night. Rain may cause errors in detection. If there is moisture covering the camera lens, detection may not be accurate.
